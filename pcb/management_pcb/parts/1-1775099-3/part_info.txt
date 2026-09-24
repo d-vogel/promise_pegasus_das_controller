@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=1-1775099-3
+PartCategory=Connector
+PackageCategory=Other
+PinCount=24
+Version=2.2
+Released=2017-12-06 12:00:58
+Downloaded=2026-06-24 21:40:56
+3D=Y

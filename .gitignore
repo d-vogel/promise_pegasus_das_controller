@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Build outputs
+build/
+cmake-build-*/
+firmware/build/
+
+# OS/editor
+.DS_Store
+.vscode/
+pcb/management_pcb/management_pcb-backups/
+*.FCBak
+~*.lck
+.$*.bkp
