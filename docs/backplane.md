@@ -1,7 +1,9 @@
 # Backplate
 
 The backplane is connected to the controller by it's edge into a PCIe x8 connector.
+
 ![front](backplane_front.jpg)
+
 ![back](backplane_back.jpg)
 
 Its' fonctionalities:
