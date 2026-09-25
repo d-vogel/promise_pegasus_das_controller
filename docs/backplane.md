@@ -2,9 +2,9 @@
 
 The backplane is connected to the controller by it's edge into a PCIe x8 connector.
 
-![front](backplane_pinout-front.png)
-
-![back](backplane_pinout-back.png)
+| [Front](backplane_pinout-front.png) | [Back](backplane_pinout-back.png) |
+|-|- |
+| ![front](backplane_pinout-front.png) | ![back](backplane_pinout-back.png) |
 
 Its' fonctionalities:
 - route 12V and 5V to the disks

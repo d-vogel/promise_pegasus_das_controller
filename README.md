@@ -1,10 +1,9 @@
 # Promise Pegasus DAS controller
 
 The Promise Pegasus DAS is a thuderbolt 2 DAS enclosure.
-
-![front](https://i.pcmag.com/imagery/reviews/06G7FsaA3vEMlA0ihk4rJ8f-1.fit_lim.size_1050x591.v1569480808.jpg)
-
-![back](https://i.pcmag.com/imagery/reviews/06G7FsaA3vEMlA0ihk4rJ8f-6..v1569480808.jpg)
+| Front | Back |
+|:-:|:-:|
+|![front](https://i.pcmag.com/imagery/reviews/06G7FsaA3vEMlA0ihk4rJ8f-1.fit_lim.size_1050x591.v1569480808.jpg)|![back](https://i.pcmag.com/imagery/reviews/06G7FsaA3vEMlA0ihk4rJ8f-6..v1569480808.jpg)|
 
 The goal here is to reverse engineer the backplane and replace the RAID controller with a SATA breakout board and microcontroller.
 
