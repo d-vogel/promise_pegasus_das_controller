@@ -2767,6 +2767,17 @@
 			(uuid "43021481-6737-419d-9ac0-ad83580c2d63")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/parts.pretty/10018783-X0X12.stp"
+			(offset
+				(xyz 0 -1.25 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "parts:SATAAPLVTK1"
 		(layer "F.Cu")
@@ -2926,12 +2937,6 @@
 		(path "/1e1db390-2640-418e-8226-c4d569855e35")
 		(sheetname "/")
 		(sheetfile "management_pcb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "9" "6" "7" "5" "4" "3" "1" "2" "8")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3156,6 +3161,17 @@
 			(layer "F.Fab")
 			(uuid "c42318a8-a689-411b-9350-c4da5e750990")
 		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -0.975 90)
+			(layer "F.Fab")
+			(uuid "d4672bc4-ab38-4d49-acc6-7d4749e877ea")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+				)
+			)
+		)
 		(pad "1" thru_hole circle
 			(at 3.81 0 90)
 			(size 1.1 1.1)
@@ -3256,7 +3272,7 @@
 			(uuid "15226bf9-8f27-4787-b560-84db1c28309a")
 		)
 		(embedded_fonts no)
-		(model "/home/dvogel/Downloads/sata-a-pl-vt-k-x-model.step"
+		(model "${KIPRJMOD}/parts.pretty/sata-a-pl-vt-k-x-model.step"
 			(offset
 				(xyz 8.6 -3.6 7.5)
 			)
@@ -3426,12 +3442,6 @@
 		(path "/9ffa1412-29d2-4deb-af71-c1a0017f297b")
 		(sheetname "/")
 		(sheetfile "management_pcb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "9" "6" "7" "5" "4" "3" "1" "2" "8")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3656,6 +3666,17 @@
 			(layer "F.Fab")
 			(uuid "f0e9f723-86ed-4aae-ba56-56641999cf8c")
 		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -0.975 90)
+			(layer "F.Fab")
+			(uuid "1bfcbc57-ee69-43a3-8fb4-aeb05f0d0917")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+				)
+			)
+		)
 		(pad "1" thru_hole circle
 			(at 3.81 0 90)
 			(size 1.1 1.1)
@@ -3756,7 +3777,7 @@
 			(uuid "0f4af2bf-743c-4f9a-aaa9-7ba2ead28fe3")
 		)
 		(embedded_fonts no)
-		(model "/home/dvogel/Downloads/sata-a-pl-vt-k-x-model.step"
+		(model "${KIPRJMOD}/parts.pretty/sata-a-pl-vt-k-x-model.step"
 			(offset
 				(xyz 8.6 -3.6 7.5)
 			)
@@ -4683,12 +4704,6 @@
 		(path "/16d54e83-210f-4880-a11f-d0cbb052ad98")
 		(sheetname "/")
 		(sheetfile "management_pcb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "9" "6" "7" "5" "4" "3" "1" "2" "8")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4913,6 +4928,17 @@
 			(layer "F.Fab")
 			(uuid "9ac10b6a-d082-422a-895e-f0f783ffa524")
 		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -0.975 90)
+			(layer "F.Fab")
+			(uuid "be9f9c13-5314-4e75-a38c-7e8d0476e3c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+				)
+			)
+		)
 		(pad "1" thru_hole circle
 			(at 3.81 0 90)
 			(size 1.1 1.1)
@@ -5013,7 +5039,7 @@
 			(uuid "dbb7e099-134c-429e-b3cb-72ba021f670b")
 		)
 		(embedded_fonts no)
-		(model "/home/dvogel/Downloads/sata-a-pl-vt-k-x-model.step"
+		(model "${KIPRJMOD}/parts.pretty/sata-a-pl-vt-k-x-model.step"
 			(offset
 				(xyz 8.6 -3.6 7.5)
 			)
@@ -5342,12 +5368,6 @@
 		(path "/8b68d86e-a3e1-4b91-970f-ca2f06a3428a")
 		(sheetname "/")
 		(sheetfile "management_pcb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "9" "6" "7" "5" "4" "3" "1" "2" "8")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5572,6 +5592,17 @@
 			(layer "F.Fab")
 			(uuid "58e0fd67-9365-4821-bcd5-6c3b8579d3a4")
 		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -0.975 90)
+			(layer "F.Fab")
+			(uuid "a7d381b5-2cfa-401d-8781-dc932ed7d337")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+				)
+			)
+		)
 		(pad "1" thru_hole circle
 			(at 3.81 0 90)
 			(size 1.1 1.1)
@@ -5672,7 +5703,7 @@
 			(uuid "11e06464-efad-401e-a6f0-42d37b4c6112")
 		)
 		(embedded_fonts no)
-		(model "/home/dvogel/Downloads/sata-a-pl-vt-k-x-model.step"
+		(model "${KIPRJMOD}/parts.pretty/sata-a-pl-vt-k-x-model.step"
 			(offset
 				(xyz 8.6 -3.6 7.5)
 			)
@@ -7595,15 +7626,15 @@
 			(uuid "523125e3-ed3e-483b-af0d-5566ef1db2a4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Mini-Fit_Jr_5566-24A_2x12_P4.20mm_Vertical.step"
+		(model "${KIPRJMOD}/parts.pretty/ATX24.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 23.1 -2.75 13)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -12630,6 +12661,32 @@
 			(font
 				(size 1 1)
 				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "FAN"
+		(at 17.925 12.25 0)
+		(layer "F.SilkS")
+		(uuid "01f3d098-1751-4620-9711-42d86b79fb89")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "FP"
+		(at 68.46 5.675 0)
+		(layer "F.SilkS")
+		(uuid "7d005ad7-1faf-4f6f-97dd-6c436739aeca")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
