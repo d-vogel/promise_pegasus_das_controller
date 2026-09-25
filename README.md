@@ -17,6 +17,8 @@ The first PCB version is not present on the repo. The pinout for both the PCI co
 Is seems in the debugging process I damaged the CPLD controlling the LEDs, which is why v2 will add a ws2812 control pin.
 
 ## v1
+![v1](pcb/management_pcb/v1_3dRender.png)
+
 This is the current version on the PCB. Pinouts are correct: 
 - ✅ the pico is always on
 - ✅ the front panel interfaces to the pico

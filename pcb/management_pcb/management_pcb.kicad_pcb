@@ -12795,6 +12795,31 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "promise_pegasus_das_controller\n\nversion 1"
+		(at 2.025 25.975 270)
+		(layer "F.SilkS")
+		(uuid "a3f8e622-dc28-4861-8df0-c4bd3d20daed")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(barcode
+		(at 8.4 18.30625 0)
+		(layer "F.SilkS")
+		(size 13.3125 13.3125)
+		(text "https://github.com/d-vogel/promise_pegasus_das_controller")
+		(text_height 1.5)
+		(type qr)
+		(ecc_level L)
+		(hide yes)
+		(knockout no)
+		(uuid "c1d76899-3dd4-408d-b470-9fafcf264a8b")
+	)
 	(segment
 		(start 75.2206 75.0294)
 		(end 75.2206 85.384268)
