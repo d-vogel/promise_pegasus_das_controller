@@ -32,6 +32,8 @@ This is the current version on the PCB. Pinouts are correct:
 - add ground fill to the PCB
 - add onboard temperature sensor
 
+## v3 eInk front panel?
+[waveshare 2.9 inch E-paper Module](https://www.waveshare.com/2.9inch-e-paper-module.htm)
 
 # BOM:
 - SATA: https://www.mouser.ch/ProductDetail/Adam-Tech/SATA-A-PL-VT-K-1
